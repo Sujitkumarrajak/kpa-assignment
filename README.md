@@ -1,14 +1,15 @@
-
 # KPA Assignment API
 
-## Tech Stack
+## 🔧 Tech Stack
 - FastAPI
 - PostgreSQL
-- SQLAlchemy (async)
+- SQLAlchemy (Async)
+- Alembic
 - Python-dotenv
+- Pydantic
 
-## Setup
-1. Create virtualenv and activate it.
-2. Install requirements:
-3. Set DB URL in `.env` file.
-4. Run app:
+## 🚀 Features
+- Submit a KPA Form (POST)
+- Retrieve All Submitted Forms (GET)
+
+## 📁 Folder Structure
